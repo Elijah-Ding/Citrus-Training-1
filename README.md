@@ -1,1 +1,2 @@
-print("what the hell is this")
+"i want to end myself right now"
+
